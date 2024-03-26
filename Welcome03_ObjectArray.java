@@ -1,9 +1,8 @@
 import core.data.*;
 
-public class Welcome02_Object {
+public class Welcome03_ObjectArray {
     public static void main(String[] args) {
 
 
     } // close main
 }
-
